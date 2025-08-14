@@ -4,4 +4,10 @@ background: rgb(150, 238, 232);
 }
 header {
 border-bottom: solid 2px rgb(255, 175, 71);
+padding: 20px;
+font-size: 32px;
+color: rgb(0, 0, 0);
+}
+section {
+background: rgb(184, 156, 213);
 }
